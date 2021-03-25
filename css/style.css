@@ -1,0 +1,12 @@
+body {
+  background: #282c34;
+  color: #fff;
+}
+
+header {
+  height: 100px;
+  width: 100%;
+  margin: auto;
+  font-size: 30px;
+  text-align: center;
+}
